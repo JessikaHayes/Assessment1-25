@@ -1,0 +1,7 @@
+C:\Users\CCA025\source\repos\ProgrammingAssessment_1\ProgrammingAssessment_1\obj\Debug\ProgrammingAssessment_1.csproj.CoreCompileInputs.cache
+C:\Users\CCA025\source\repos\ProgrammingAssessment_1\ProgrammingAssessment_1\bin\Debug\ProgrammingAssessment_1.exe.config
+C:\Users\CCA025\source\repos\ProgrammingAssessment_1\ProgrammingAssessment_1\bin\Debug\ProgrammingAssessment_1.exe
+C:\Users\CCA025\source\repos\ProgrammingAssessment_1\ProgrammingAssessment_1\bin\Debug\ProgrammingAssessment_1.pdb
+C:\Users\CCA025\source\repos\ProgrammingAssessment_1\ProgrammingAssessment_1\obj\Debug\ProgrammingAssessment_1.exe
+C:\Users\CCA025\source\repos\ProgrammingAssessment_1\ProgrammingAssessment_1\obj\Debug\ProgrammingAssessment_1.pdb
+C:\Users\CCA025\source\repos\ProgrammingAssessment_1\ProgrammingAssessment_1\obj\Debug\ProgrammingAssessment_1.csprojAssemblyReference.cache
